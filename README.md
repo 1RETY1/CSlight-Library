@@ -27,7 +27,7 @@ This project is designed as a **learning project** for practicing basic C# conce
 
 ## 📖 How It Works
 
-After запуск the program, the user sees a menu:
+After starting the program, the user sees a menu:
 
 ```
 1 - find out the author's name by the book index.
